@@ -58,7 +58,7 @@ public class TestClass {
     }
 
     public void job_trigger1() {
-        Log.d("TEst","Test Git");
+        Log.d("TEst","Test  02");
 
     }
 }

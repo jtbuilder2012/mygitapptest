@@ -51,6 +51,11 @@ public class TestClass {
     // Constructor
     public TestClass() {
 
+        //No-op
+
+    }
+
+    public void job_trigger1() {
 
     }
 }

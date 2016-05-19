@@ -1,5 +1,7 @@
 package example.digitalstudio.com.mygitapptest;
 
+import android.util.Log;
+
 /**
  * Created by Omar on 15/05/2016.
  *
@@ -56,6 +58,7 @@ public class TestClass {
     }
 
     public void job_trigger1() {
+        Log.d("TEst","Test Git");
 
     }
 }
